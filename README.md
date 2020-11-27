@@ -1,12 +1,11 @@
-# Password-Manager 1.0v
-Password-Manager 1.0v is a secure and efficient open source password saver (OFFLINE).
+# Password-Manager 2.0v
+Password-Manager 2.0v is a secure and efficient open source password saver (OFFLINE).
 
 # Instructions
 Please make sure that you have install MYSQL Server on your PC
-Steps to Run Password Manager.py
+Steps to Run Password-Manager-2.0v.py
 1. Run Requirements.cmd
-2. Run preinstall.py (Created Tables and Database)
-3. Run Password Manager.py
+2. Run Password Manager.py
 Enjoy :) !!!
 
 # Screenshots
